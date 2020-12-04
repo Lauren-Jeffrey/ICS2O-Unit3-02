@@ -1,0 +1,12 @@
+.para1 {
+  color:tomato;
+}
+table , th, td {
+  border: 1px solid black;
+}
+.box {
+  width: 400px;
+  border: 20px solid yellowgreen;
+  padding: 50px;
+  margin: 20px;
+}
